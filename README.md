@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taichi765
-- 👀 I’m interested in Vue, Express.js, TypeScript, and ASP.NET Core.
-- 🌱 I’m currently learning these languages and frameworks.
+- 👀 I’m interested in Vue.js, TypeScript, and Golang.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
