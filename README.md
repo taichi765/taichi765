@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @taichi765
-- 👀 I’m interested in Vue.js, TypeScript, and Golang.
+- 👋 Hi, I’m @taichi765, high school student. 
+- 👀 I’m interested in AtCoder(procon), TypeScript, and Golang.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
