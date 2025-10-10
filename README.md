@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taichi765, high school student. 
-- 👀 I’m interested in AtCoder(procon), TypeScript, and Golang.
+- 👀 I’m interested in AtCoder, TypeScript, Rust, and Golang.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
