@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @taichi765, high school student. 
-- 👀 My favorite languages: Rust, Go, and TypeScript.
+- High school student in Japan
+- Favorite languages: Rust, Go and TypeScript.
 
 <!---
 taichi765/taichi765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
