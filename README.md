@@ -1,7 +1,9 @@
 - High school student in Japan
 - Favorite languages: Rust🦀
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taichi765)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!---
 taichi765/taichi765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
