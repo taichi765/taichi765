@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&exclude_repo=2025_bunkasai_website_clone
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
