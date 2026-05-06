@@ -1,5 +1,5 @@
 - High school student in Japan
-- Favorite languages: Rust🦀
+- Favorite languages: Rust🦀, Kotlin
 
 ![Top Languages](./profile/top-langs.svg)
 
