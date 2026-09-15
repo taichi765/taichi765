@@ -1,5 +1,6 @@
-- High school student in Japan
+- High school student in Japan🇯🇵
 - Favorite languages: Rust🦀, Kotlin
+- I love writing code by myself, without LLM❤
 
 ![](https://github.com/taichi765/github-stats/blob/master/overview.svg)
 ![](https://github.com/taichi765/github-stats/blob/master/languages.svg)
